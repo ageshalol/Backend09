@@ -1,0 +1,1 @@
+lambda_hello = lambda x: x * x - 10
